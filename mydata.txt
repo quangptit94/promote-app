@@ -3,23 +3,23 @@
     "promote-data":[
 	    {
 	    "title-app":"volume booster",
-	    "img-icon":"true",
-            "package-name-promote":"xxx.yyy.zzzz"
+	    "img-icon":"https://github.com/quangptit94/promote-app/blob/master/icon/camera_beauty_v1.png",
+            "package-name-promote":"beauty.camera.photo.editor"
         },
  {
 	    "title-app":"volume booster",
-	    "img-icon":"true",
-            "package-name-replace":"xxx.yyy.zzzz"
+	 "img-icon":"https://github.com/quangptit94/promote-app/blob/master/icon/camerahd_v1.png",
+            "package-name-replace":"hd.camera.sticker.filter"
         },
  {
 	    "title-app":"volume booster",
-	    "img-icon":"true",
-            "package-name-replace":"xxx.yyy.zzzz"
+	    "img-icon":"https://github.com/quangptit94/promote-app/blob/master/icon/cutit_v1.png",
+            "package-name-replace":"com.supergame.ultrasharp.cutitdown"
         },
  {
 	    "title-app":"volume booster",
-	    "img-icon":"true",
-            "package-name-replace":"xxx.yyy.zzzz"
+	    "img-icon":"https://github.com/quangptit94/promote-app/blob/master/icon/equalizer_v1.png",
+            "package-name-replace":"music.bassbooster.equalizer"
         }
     ]
 }
