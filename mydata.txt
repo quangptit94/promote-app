@@ -2,23 +2,23 @@
 {
     "promote-data":[
 	    {
-	    "title-app":"volume booster",
-	    "img-icon":"https://github.com/quangptit94/promote-app/blob/master/icon/camera_beauty_v1.png",
+	    "title-app":"Camera Editor",
+	    "img-icon":"https://i.imgur.com/7mQWmql.png",
             "package-name-promote":"beauty.camera.photo.editor"
         },
  {
-	    "title-app":"volume booster",
-	 "img-icon":"https://github.com/quangptit94/promote-app/blob/master/icon/camerahd_v1.png",
+	    "title-app":"Camera Hd",
+	 "img-icon":"https://i.imgur.com/qmcsbMv.png",
             "package-name-replace":"hd.camera.sticker.filter"
         },
  {
-	    "title-app":"volume booster",
-	    "img-icon":"https://github.com/quangptit94/promote-app/blob/master/icon/cutit_v1.png",
+	    "title-app":"Cut it",
+	    "img-icon":"https://i.imgur.com/tSCuA6V.png",
             "package-name-replace":"com.supergame.ultrasharp.cutitdown"
         },
  {
-	    "title-app":"volume booster",
-	    "img-icon":"https://github.com/quangptit94/promote-app/blob/master/icon/equalizer_v1.png",
+	    "title-app":"Equalizer 2019",
+	    "img-icon":"https://i.imgur.com/uhw6z2I.png",
             "package-name-replace":"music.bassbooster.equalizer"
         }
     ]
