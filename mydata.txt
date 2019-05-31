@@ -4,6 +4,21 @@
 	    {
 	    "title-app":"volume booster",
 	    "img-icon":"true",
+            "package-name-promote":"xxx.yyy.zzzz"
+        },
+ {
+	    "title-app":"volume booster",
+	    "img-icon":"true",
+            "package-name-replace":"xxx.yyy.zzzz"
+        },
+ {
+	    "title-app":"volume booster",
+	    "img-icon":"true",
+            "package-name-replace":"xxx.yyy.zzzz"
+        },
+ {
+	    "title-app":"volume booster",
+	    "img-icon":"true",
             "package-name-replace":"xxx.yyy.zzzz"
         }
     ]
