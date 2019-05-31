@@ -1,0 +1,10 @@
+    
+{
+    "promote-data":[
+	    {
+	    "title-app":"volume booster",
+	    "img-icon":"true",
+            "package-name-replace":"xxx.yyy.zzzz"
+        }
+    ]
+}
