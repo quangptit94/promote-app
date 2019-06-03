@@ -9,17 +9,17 @@
  {
 	    "title-app":"Camera Hd",
 	 "img-icon":"https://i.imgur.com/qmcsbMv.png",
-            "package-name-replace":"hd.camera.sticker.filter"
+            "package-name-promote":"hd.camera.sticker.filter"
         },
  {
 	    "title-app":"Cut it",
 	    "img-icon":"https://i.imgur.com/tSCuA6V.png",
-            "package-name-replace":"com.supergame.ultrasharp.cutitdown"
+            "package-name-promote":"com.supergame.ultrasharp.cutitdown"
         },
  {
 	    "title-app":"Equalizer 2019",
 	    "img-icon":"https://i.imgur.com/uhw6z2I.png",
-            "package-name-replace":"music.bassbooster.equalizer"
+             "package-name-promote":"music.bassbooster.equalizer"
         }
     ]
 }
